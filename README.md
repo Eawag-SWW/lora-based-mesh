@@ -13,6 +13,6 @@ https://ieeexplore.ieee.org/document/8703036
 
 ## Software code
 
-## Miscellenaous
+## Miscellaneous
 
 More detailed info will follow soon!
