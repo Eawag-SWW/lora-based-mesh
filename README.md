@@ -3,7 +3,7 @@ Documentation, firmware and hardware specification of the Eawag/ZHAW development
 
 ## Graphical Abstract
 
-![EBI_etal_graphical_abstract_s](https://user-images.githubusercontent.com/12830431/63185891-61fc6a80-c05b-11e9-8dcf-7598a59a9d36.png)
+![EBI_etal_graphical_abstract_xs](https://user-images.githubusercontent.com/12830431/63186131-f5ce3680-c05b-11e9-89f6-2a8b1920fb11.png)
 
 ## Project-related Open Access Publication
 
