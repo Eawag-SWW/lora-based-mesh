@@ -1,4 +1,4 @@
-# LoRaMesh - A synchronous LoRa-based data communication for underground infrastructure
+# LoRaMesh - A synchronous LoRa-based data communication
 Documentation, firmware and hardware specification | Cooperative development: InES, ZHAW Winterthur & Eawag, Dübendorf (Switzerland) 
 
 ## Graphical Abstract
