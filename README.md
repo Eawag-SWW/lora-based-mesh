@@ -12,7 +12,7 @@ Although emerging low-power wireless communication techniques allow efficient da
 https://ieeexplore.ieee.org/document/8703036
 
 ## Hardware Specification
-Read more [here](./Hardware)
+Find the assembly of the material used, the drawings for sensor node chassis, and the PCB related material [here](./Hardware)
 ## Software Code
-
+LoRaMesh firmware is provided [here](./Software)
 ## Miscellaneous
