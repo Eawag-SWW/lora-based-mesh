@@ -12,7 +12,7 @@ Although emerging low-power wireless communication techniques allow efficient da
 https://ieeexplore.ieee.org/document/8703036
 
 ## Hardware Specification
-Read more [here](./hardware)
+Read more [here](./Hardware)
 ## Software Code
 
 ## Miscellaneous
