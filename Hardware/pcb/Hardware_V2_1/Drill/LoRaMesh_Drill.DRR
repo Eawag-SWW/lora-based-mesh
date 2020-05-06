@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EAWAG_Lora_Mesh.PcbDoc   15.07.2019  09:18:22
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : 1-Top Layer to 4-Bottom Layer
+ASCII RoundHoles File : LoRaMesh_Drill.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             27        PTH        136.08mm (5.36inch)
+T2      0.3mm (12mil)                                             Round             839       PTH        2302.21mm (90.64inch)
+T3      0.5mm (20mil)                                             Round             2         PTH        23.67mm (0.93inch)
+T4      0.65mm (26mil)                                            Round             10        PTH        11.43mm (0.45inch)
+T5      0.71mm (28mil)                                            Round             2         PTH        2.00mm (0.08inch)
+T6      0.711mm (28mil)                                           Round             2         PTH        4.88mm (0.19inch)
+T7      0.9mm (35mil)                                             Round             31        PTH        181.22mm (7.13inch)
+T8      1mm (39mil)                                               Round             32        PTH        269.37mm (10.60inch)
+T9      1.016mm (40mil)                                           Round             6         PTH        12.70mm (0.50inch)
+T10     1.11mm (44mil)                                            Round             32        PTH        104.69mm (4.12inch)
+T11     5.3mm (209mil)                                            Round             4         PTH        216.55mm (8.53inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              987
+
+Total Processing Time (hh:mm:ss) : 00:00:01

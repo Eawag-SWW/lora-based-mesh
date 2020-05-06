@@ -1,0 +1,24 @@
+DRC Rules Export File for PCB: F:\Projects\EAWAG\EAWAG_LoRaMesh\03_hardware\Altium\EAWAG_Lora_Mesh\EAWAG_Lora_Mesh.PcbDoc
+RuleKind=Width|RuleName=Schematic Width Constraint_16|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_15|Scope=Board|Minimum=20.46
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  <= 0.45mm|Scope=Board|Minimum=4.92
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  > 0.45mm|Scope=Board|Minimum=4.92
+RuleKind=MinimumAnnularRing|RuleName=Minimum-IAR|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Schematic Width Constraint_8|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_4|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_2|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_3|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_6|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_7|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_9|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_10|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_11|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_12|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_13|Scope=Board|Minimum=20.46
+RuleKind=Width|RuleName=Schematic Width Constraint_5|Scope=Board|Minimum=20.46
