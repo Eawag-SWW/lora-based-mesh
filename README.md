@@ -18,6 +18,5 @@ LoRaMesh firmware is provided [here](./Software).
 ## Miscellaneous
 Institutional project website -> https://www.eawag.ch/en/department/sww/projects/loramesh/
 
-### Related project(s):
-
+Related project(s): 
 Urban Water Observatory -> https://www.eawag.ch/en/department/sww/main-focus/urbanhydrologisches-feldlabor/
