@@ -16,7 +16,7 @@ Find i) the assembly of the material used, ii) the drawings for sensor node chas
 ## Software Code
 LoRaMesh firmware is provided [here](./Software).
 ## Miscellaneous
-Institutional project website -> https://www.eawag.ch/en/department/sww/projects/loramesh/
+Institutional project website -> www.eawag.ch/loramesh
 
 Related project(s): 
-Urban Water Observatory -> https://www.eawag.ch/en/department/sww/main-focus/urbanhydrologisches-feldlabor/
+Urban Water Observatory -> www.eawag.ch/uwo
