@@ -1,4 +1,4 @@
-# LoRaMaseh - A synchronous LoRa-based mesh data communication protocol
+# LoRaMesh - A synchronous LoRa-based mesh data communication protocol
 Documentation, firmware and hardware specification | Cooperative development: InES, ZHAW Winterthur & Eawag, Dübendorf (Switzerland) 
 
 ## Graphical Abstract
