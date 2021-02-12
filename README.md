@@ -1,4 +1,4 @@
-# LoRaMesh - A synchronous LoRa-based data communication protocol
+# LPWAN for sewer monitoring - A synchronous LoRa-based mesh data communication protocol
 Documentation, firmware and hardware specification | Cooperative development: InES, ZHAW Winterthur & Eawag, Dübendorf (Switzerland) 
 
 ## Graphical Abstract
@@ -14,7 +14,7 @@ https://ieeexplore.ieee.org/document/8703036
 ## Hardware Specification
 Find i) the assembly of the material used, ii) the drawings for sensor node chassis, and iii) PCB related material [here](./Hardware).
 ## Software Code
-LoRaMesh firmware is provided [here](./Software).
+Concept-specific firmware is provided [here](./Software).
 ## Miscellaneous
 Institutional project website -> www.eawag.ch/loramesh
 
