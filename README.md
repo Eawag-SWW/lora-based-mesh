@@ -16,7 +16,7 @@ Find i) the assembly of the material used, ii) the drawings for sensor node chas
 ## Software Code
 Concept-specific firmware is provided [here](./Software).
 ## Miscellaneous
-Institutional project website -> www.eawag.ch/loramesh
+Institutional project website -> www.eawag.ch/sewerlpwan
 
 Related project(s): 
 Urban Water Observatory -> www.eawag.ch/uwo
